@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xuouxiao1024
-- ![China](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png) I’m a Chinese
-- 👀 I’m interested in mathematics and OI
-- 🌱 I’m currently learning OI,Chinese,Maths,English
+- ![China](https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png) I’m Chinese
+- 👀 I’m interested in mathematics
+- 🌱 I’m currently learning Maths,English,French,Esperanto
 - 📫 How to reach me :xuouxiao1024@qq.com
 
 <!---
